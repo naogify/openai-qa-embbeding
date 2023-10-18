@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "openai": "^4.12.1"
+    "compute-cosine-distance": "^1.0.0",
+    "openai": "^4.12.1",
+    "papaparse": "^5.4.1"
   }
 }
